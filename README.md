@@ -125,7 +125,7 @@ The Hospital Management System is a tailored operational model for healthcare in
 
 ## ER Diagram:
 
-![images](https://github.com/HemadharshiniMurugan/DBMS-EX01/assets/119404809/1a93a1d5-6e5d-4291-bcfa-bd397bcb66f6)
+![Screenshot 2024-05-14 175304](https://github.com/HemadharshiniMurugan/DBMS-EX01/assets/119404809/77cd9ad6-21ad-405b-a78f-269827f433a5)
 
 
 - **Entities:**
